@@ -1,7 +1,8 @@
 {
   "name": "seams-cms-sdk",
   "description": "Seams-CMS SDK for Javascript",
-  "version": "0.0.1",
+  "main": "seams-cms-sdk.js",
+  "version": "0.0.2",
   "author": "Joshua Thijssen <jthijssen@seams-cms.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
